@@ -4,7 +4,7 @@ An AI-powered job interview preparation platform built with Next.js, Firebase, V
 
 ## Live Demo
 
-**Live Demo:** `PASTE_YOUR_LIVE_LINK_HERE`
+**Live Demo:** [https://prepwise-mcoh.onrender.com/](https://prepwise-mcoh.onrender.com/)
 
 ## Introduction
 
